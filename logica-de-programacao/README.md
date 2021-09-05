@@ -45,7 +45,7 @@
       <ul> <a href="https://github.com/marcelocodigos/webprogramadores-aulas-youtube/blob/main/logica-de-programacao/7-area-do-triangulo.por"> Arquivo da Aula </a> </ul>
   </li>
 
-  <li><a href="" target="_blank"> Algoritmo bomba de combustivel , preço , litros </a>
-      <ul> <a href=""> Arquivo da Aula </a> </ul>
+  <li><a href="https://youtu.be/hCLdzyhROq4" target="_blank"> Algoritmo bomba de combustivel , preço , litros </a>
+      <ul> <a href="https://github.com/marcelocodigos/webprogramadores-aulas-youtube/blob/main/logica-de-programacao/8-bomba-de-combustivel-preco-litros.por"> Arquivo da Aula </a> </ul>
   </li>
 </Ol>
