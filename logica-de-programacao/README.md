@@ -44,4 +44,8 @@
   <li><a href="https://youtu.be/OjixEJYhF9k" target="_blank"> Faça um algoritmo que calcule e mostre a área de um triângulo</a>
       <ul> <a href="https://github.com/marcelocodigos/webprogramadores-aulas-youtube/blob/main/logica-de-programacao/7-area-do-triangulo.por"> Arquivo da Aula </a> </ul>
   </li>
+
+  <li><a href="" target="_blank"> Algoritmo bomba de combustivel , preço , litros </a>
+      <ul> <a href=""> Arquivo da Aula </a> </ul>
+  </li>
 </Ol>
