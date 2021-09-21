@@ -51,7 +51,7 @@
   <li><a href="https://youtu.be/FvYJZgOpltg" target="_blank"> Algoritmo Calculo Custo de Viagem de carro </a>
       <ul> <a href="https://github.com/marcelocodigos/webprogramadores-aulas-youtube/blob/main/logica-de-programacao/9-calculo-gastos-viagem-motorista.por"> Arquivo da Aula </a> </ul>
   </li>
-  <li><a href="https://youtu.be/WVP8CyjZKvU" target="_blank"> Algoritmo Calculo Custo de Expoentes e Potenciação </a>
+  <li><a href="https://youtu.be/WVP8CyjZKvU" target="_blank"> Algoritmo Calculo  Expoentes e Potenciação </a>
       <ul> <a href="https://github.com/marcelocodigos/webprogramadores-aulas-youtube/blob/main/logica-de-programacao/11%20-%20potenciacao-expoentes.por"> Arquivo da Aula </a> </ul>
   </li>
 </Ol>
