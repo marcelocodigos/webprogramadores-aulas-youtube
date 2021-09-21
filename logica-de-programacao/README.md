@@ -54,4 +54,7 @@
   <li><a href="https://youtu.be/WVP8CyjZKvU" target="_blank"> Algoritmo Calculo  Expoentes e Potenciação </a>
       <ul> <a href="https://github.com/marcelocodigos/webprogramadores-aulas-youtube/blob/main/logica-de-programacao/11%20-%20potenciacao-expoentes.por"> Arquivo da Aula </a> </ul>
   </li>
+<li><a href="https://youtu.be/EiYUUdUdA-E" target="_blank"> Algoritmo Calculo  Raiz Quadrada (Funcao Nativa) </a>
+      <ul> <a href="https://github.com/marcelocodigos/webprogramadores-aulas-youtube/blob/main/logica-de-programacao/12-raiz-quadrada.por"> Arquivo da Aula </a> </ul>
+  </li>
 </Ol>
