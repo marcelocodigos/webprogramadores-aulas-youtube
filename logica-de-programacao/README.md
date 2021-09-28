@@ -44,7 +44,6 @@
   <li><a href="https://youtu.be/OjixEJYhF9k" target="_blank"> Faça um algoritmo que calcule e mostre a área de um triângulo</a>
       <ul> <a href="https://github.com/marcelocodigos/webprogramadores-aulas-youtube/blob/main/logica-de-programacao/7-area-do-triangulo.por"> Arquivo da Aula </a> </ul>
   </li>
-
   <li><a href="https://youtu.be/hCLdzyhROq4" target="_blank"> Algoritmo bomba de combustivel , preço , litros </a>
       <ul> <a href="https://github.com/marcelocodigos/webprogramadores-aulas-youtube/blob/main/logica-de-programacao/8-bomba-de-combustivel-preco-litros.por"> Arquivo da Aula </a> </ul>
   </li>
@@ -55,6 +54,15 @@
       <ul> <a href="https://github.com/marcelocodigos/webprogramadores-aulas-youtube/blob/main/logica-de-programacao/11%20-%20potenciacao-expoentes.por"> Arquivo da Aula </a> </ul>
   </li>
 <li><a href="https://youtu.be/EiYUUdUdA-E" target="_blank"> Algoritmo Calculo  Raiz Quadrada (Funcao Nativa) </a>
+
       <ul> <a href="https://github.com/marcelocodigos/webprogramadores-aulas-youtube/blob/main/logica-de-programacao/12-raiz-quadrada.por"> Arquivo da Aula </a> </ul>
   </li>
-</Ol>
+
+  <li><a href="https://youtu.be/6Khr9EPI-ug" target="_blank"> Algoritmo Calculo  Raiz Quadrada (Funcao Nativa) </a>
+
+      <ul> <a href="https://github.com/marcelocodigos/webprogramadores-aulas-youtube/blob/main/logica-de-programacao/13-media-alturas.por"> Arquivo da Aula </a> </ul>
+  </li>
+
+ </Ol>
+
+
