@@ -53,14 +53,22 @@
   <li><a href="https://youtu.be/WVP8CyjZKvU" target="_blank"> Algoritmo Calculo  Expoentes e Potenciação </a>
       <ul> <a href="https://github.com/marcelocodigos/webprogramadores-aulas-youtube/blob/main/logica-de-programacao/11%20-%20potenciacao-expoentes.por"> Arquivo da Aula </a> </ul>
   </li>
-<li><a href="https://youtu.be/EiYUUdUdA-E" target="_blank"> Algoritmo Calculo  Raiz Quadrada (Funcao Nativa) </a>
+<li> 
+       <a href="https://youtu.be/EiYUUdUdA-E" target="_blank"> Algoritmo Calculo  Raiz Quadrada (Funcao Nativa) </a>
+    <li>
+         <ul> <a href="https://github.com/marcelocodigos/webprogramadores-aulas-youtube/blob/main/logica-de-programacao/12-raiz-quadrada.por"> Arquivo da Aula </a> </ul>
+     
+         
+    </li>    
+</li>
 
-      <ul> <a href="https://github.com/marcelocodigos/webprogramadores-aulas-youtube/blob/main/logica-de-programacao/12-raiz-quadrada.por"> Arquivo da Aula </a> </ul>
-  </li>
-
-  <li><a href="https://youtu.be/6Khr9EPI-ug" target="_blank"> Algoritmo Calculo  Raiz Quadrada (Funcao Nativa) </a>
-
-      <ul> <a href="https://github.com/marcelocodigos/webprogramadores-aulas-youtube/blob/main/logica-de-programacao/13-media-alturas.por"> Arquivo da Aula </a> </ul>
+  <li>
+      <a href="https://youtu.be/6Khr9EPI-ug" target="_blank"> Algoritmo Calculo  Raiz Quadrada (Funcao Nativa) 
+      </a>
+        <li>
+            <ul> <a href="https://github.com/marcelocodigos/webprogramadores-aulas-youtube/blob/main/logica-de-programacao/13-media-alturas.por"> Arquivo da Aula </a> 
+            </li>
+        </ul>
   </li>
 
  </Ol>
