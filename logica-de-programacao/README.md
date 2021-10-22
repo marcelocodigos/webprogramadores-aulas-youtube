@@ -70,6 +70,15 @@
     </ul>
       
 </li>
+<li> 
+    <a href="https://www.youtube.com/watch?v=_J9v3xu9tfc&t=1s" target="_blank"> Algoritmo Orçamento de Loja </a>
+    <ul>
+          <a href="https://github.com/marcelocodigos/webprogramadores-aulas-youtube/blob/main/logica-de-programacao/16-agortimo-orcamento-loja-webprogramadores.por"> Arquivo da Aula </a>
+    </ul>
+      
+</li>
+
+
 
 
 
