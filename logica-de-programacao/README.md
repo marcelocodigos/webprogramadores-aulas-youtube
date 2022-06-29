@@ -61,27 +61,35 @@
     <ul>
        <a href="https://github.com/marcelocodigos/webprogramadores-aulas-youtube/blob/main/logica-de-programacao/12-raiz-quadrada.por"> Arquivo da Aula </a>
      </ul>
-      
 </li>
 <li> 
     <a href="https://youtu.be/6Khr9EPI-ug" target="_blank"> Algoritmo calculo de média de Alturas</a>
+
     <ul>
           <a href="https://github.com/marcelocodigos/webprogramadores-aulas-youtube/blob/main/logica-de-programacao/13-media-alturas.por"> Arquivo da Aula </a>
     </ul>
-      
+
+
 </li>
 <li> 
     <a href="https://www.youtube.com/watch?v=_J9v3xu9tfc&t=1s" target="_blank"> Algoritmo Orçamento de Loja </a>
+
     <ul>
           <a href="https://github.com/marcelocodigos/webprogramadores-aulas-youtube/blob/main/logica-de-programacao/16-agortimo-orcamento-loja-webprogramadores.por"> Arquivo da Aula </a>
     </ul>
-      
+
 </li>
 
-
+<li>
+     <a href="https://www.youtube.com/watch?v=ScFzFqN-sUQ&t=3s" target="_blank">Operador relacional == (IGUAl A) </a>
+      <ul> 
+         <a href="https://github.com/marcelocodigos/webprogramadores-aulas-youtube/blob/main/logica-de-programacao/17-operadores-logicos-igual.por"> Arquivo da Aula </a> 
+      </ul>
+ </li>
 
 
 
  </Ol>
+
 
 
