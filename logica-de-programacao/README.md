@@ -74,13 +74,45 @@
      <a href="https://github.com/marcelocodigos/webprogramadores-aulas-youtube/blob/main/logica-de-programacao/16-agortimo-orcamento-loja-webprogramadores.por">           Arquivo da Aula </a>
     </ul>
 </li>
- <li>
+ <li><!-- -->
        <a href="https://www.youtube.com/watch?v=ScFzFqN-sUQ&t=3s" target="_blank">Operador relacional == (IGUAl A) </a>
        <ul> 
          <a href="https://github.com/marcelocodigos/webprogramadores-aulas-youtube/blob/main/logica-de-programacao/17-operadores-logicos-igual.por"> Arquivo da Aula          </a> 
        </ul>
+  </li><!-- -->
+  <li>
+       <a href="https://www.youtube.com/watch?v=EmLDLLZkm7A&t=3s" target="_blank">Operador relacional Diferente de !=</a>
+       <ul> 
+         <a href=""> Arquivo da Aula</a> 
+       </ul>
+  </li>
+    <li>
+       <a href="https://www.youtube.com/watch?v=wBP-TCktu6k&t=2s"             target="_blank">Operador relacional Maior ou Igual </a>
+       <ul> 
+         <a href=""> Arquivo da Aula</a> 
+       </ul>
+  </li>
+    <li>
+       <a href="https://www.youtube.com/watch?v=vTiWAMfe6hg" target="_blank">algoritmo 4 notas de um aluno </a>
+       <ul> 
+         <a href=""> Arquivo da Aula</a> 
+       </ul>
+  </li>
+    <li>
+       <a href="https://www.youtube.com/watch?v=mq4w4PAfd4k" target="_blank">Operador relacional Menor ou igual Menor que </a>
+       <ul> 
+         <a href=""> Arquivo da Aula</a> 
+       </ul>
+  </li>
+    <li>
+       <a href="https://www.youtube.com/watch?v=QVdn3y7b1e8" target="_blank">Operador relacional -  Revisão de todos  </a>
+       <ul> 
+         <a href=""> Arquivo da Aula</a> 
+       </ul>
   </li>
  </Ol>
+
+
 
 
 
