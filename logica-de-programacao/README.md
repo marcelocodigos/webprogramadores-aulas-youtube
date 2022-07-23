@@ -110,8 +110,13 @@
          <a href="https://github.com/marcelocodigos/webprogramadores-aulas-youtube/blob/main/logica-de-programacao/21-Revisao-operadores-relacionais-todos-maior-menor-igual-diferente.por"> Arquivo da Aula</a> 
        </ul>
   </li>
+     <li>
+       <a href="https://www.youtube.com/watch?v=pM9lIwFUIV4&list=PLnHHjKiaBPzKp4e-5DSd-OpmXuhvEyAwR&index=23" target="_blank">Operadores Lógicos E - OU  </a>
+       <ul> 
+         <a href="https://github.com/marcelocodigos/webprogramadores-aulas-youtube/blob/main/logica-de-programacao/22-OperadoresLogicos-e-ou.por"> Arquivo da Aula</a> 
+       </ul>
+  </li>
  </Ol>
-
 
 
 
