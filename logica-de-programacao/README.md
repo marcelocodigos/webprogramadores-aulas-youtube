@@ -110,10 +110,23 @@
          <a href="https://github.com/marcelocodigos/webprogramadores-aulas-youtube/blob/main/logica-de-programacao/21-Revisao-operadores-relacionais-todos-maior-menor-igual-diferente.por"> Arquivo da Aula</a> 
        </ul>
   </li>
-     <li>
+   <li>
        <a href="https://www.youtube.com/watch?v=pM9lIwFUIV4&list=PLnHHjKiaBPzKp4e-5DSd-OpmXuhvEyAwR&index=23" target="_blank">Operadores Lógicos E - OU  </a>
        <ul> 
          <a href="https://github.com/marcelocodigos/webprogramadores-aulas-youtube/blob/main/logica-de-programacao/22-OperadoresLogicos-e-ou.por"> Arquivo da Aula</a> 
+       </ul>
+  </li>
+  <li>
+       <a href="https://youtu.be/Vl3vzu_L6Mo" target="_blank">Receba Dois numreros e retorne o maior entre eles e se são iguais </a>
+       <ul> 
+         <a href="https://github.com/marcelocodigos/webprogramadores-aulas-youtube/blob/main/logica-de-programacao/22-Desvios-Condicionais-Senumero-maior.por"> Arquivo da Aula</a> 
+       </ul>
+  </li>
+    <li>
+       <a href="https://youtu.be/NC0CtHIFR6M" target="_blank">Receba 3 numeros e retorne o maior e se são iguais
+        </a>
+       <ul> 
+         <a href="https://github.com/marcelocodigos/webprogramadores-aulas-youtube/blob/main/logica-de-programacao/25- Desvioscondicionais-algoritmo-3numeros-maior-se-sao-iguais.por"> Arquivo da Aula</a> 
        </ul>
   </li>
  </Ol>
