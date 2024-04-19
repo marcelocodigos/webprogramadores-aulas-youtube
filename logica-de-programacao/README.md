@@ -129,7 +129,16 @@
          <a href="https://github.com/marcelocodigos/webprogramadores-aulas-youtube/blob/main/logica-de-programacao/25- Desvioscondicionais-algoritmo-3numeros-maior-se-sao-iguais.por"> Arquivo da Aula</a> 
        </ul>
   </li>
- </Ol>
+
+   
+   <li>
+       <a href="https://youtu.be/LXeWklHZmFg" target="_blank">Calculo de Exponeciação Potenciação Portugol Studio
+        </a>
+       <ul> 
+         <a href="https://github.com/marcelocodigos/webprogramadores-aulas-youtube/blob/main/logica-de-programacao/26-%20FacaUmalgoritmoQuecalculeAExponeciacaoBaseXExpoente.por"> Arquivo da Aula</a> 
+       </ul>
+  </li>
+
 
 
 
